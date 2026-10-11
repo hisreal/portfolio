@@ -1,0 +1,964 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Ajiboye Isreal Oluwaseun || Portfolio Page</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: SnapFolio
+  * Template URL: https://bootstrapmade.com/snapfolio-bootstrap-portfolio-template/
+  * Updated: Jul 21 2025 with Bootstrap v5.3.7
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body class="index-page">
+
+  <header id="header" class="header dark-background d-flex flex-column justify-content-center">
+    <i class="header-toggle d-xl-none bi bi-list"></i>
+
+    <div class="header-container d-flex flex-column align-items-start">
+      <nav id="navmenu" class="navmenu">
+        <ul>
+          <li><a href="#hero" class="active"><i class="bi bi-house navicon"></i>Home</a></li>
+          <li><a href="#about"><i class="bi bi-person navicon"></i> About</a></li>
+          <li><a href="#resume"><i class="bi bi-file-earmark-text navicon"></i> Resume</a></li>
+          <li><a href="#portfolio"><i class="bi bi-images navicon"></i> Portfolio</a></li>
+          <li><a href="#services"><i class="bi bi-hdd-stack navicon"></i> Services</a></li>
+        
+          <li><a href="#contact"><i class="bi bi-envelope navicon"></i> Contact</a></li>
+        </ul>
+      </nav>
+
+      <div class="social-links text-center">
+        <a href="https://www.facebook.com/hisrealite" class="facebook" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
+        <a href="https://www.instagram.com/hisrealitee/" class="instagram" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/ajiboye-isreal-oluwaseun-0b1a16161/" class="linkedin" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
+      </div>
+
+    </div>
+
+  </header>
+
+  <main class="main">
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero section">
+
+      <div class="background-elements">
+        <div class="bg-circle circle-1"></div>
+        <div class="bg-circle circle-2"></div>
+      </div>
+
+      <div class="hero-content">
+
+        <div class="container">
+          <div class="row align-items-center">
+
+            <div class="col-lg-12" data-aos="fade-right" data-aos-delay="100">
+              <div class="hero-text">
+                <span class="hero-kicker"><i class="bi bi-stars"></i> Software Developer · Web &amp; Digital Systems</span>
+                <h1>Building digital products<br><span class="accent-text">with purpose.</span></h1>
+                <h2>Ajiboye Isreal Oluwaseun</h2>
+                <p class="lead">I'm a <span class="typed" data-typed-items="Software Developer, Full-Stack Web Developer, IT Systems Administrator"></span></p>
+                <p class="description">Software Developer and IT Systems Administrator building responsive websites, database-driven applications, and dependable digital systems.</p>
+
+                <div class="hero-actions">
+                  <a href="#portfolio" class="btn btn-primary">View My Work</a>
+                  <a href="#contact" class="btn btn-outline">Get In Touch</a>
+                </div>
+
+                <div class="hero-code-card" aria-label="Developer focus">
+                  <div class="hero-code-bar"><span></span><span></span><span></span><small>focus.js</small></div>
+                  <pre><code><em>const</em> focus = {
+  craft: <strong>'useful experiences'</strong>,
+  stack: [<strong>'web'</strong>, <strong>'systems'</strong>, <strong>'AI'</strong>],
+  mindset: <strong>'keep learning'</strong>
+};</code></pre>
+                </div>
+
+               
+              </div>
+            </div>
+        </div>
+      </div>
+
+    </section><!-- /Hero Section -->
+
+    <!-- About Section -->
+    <section id="about" class="about section">
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row">
+          <div class="col-lg-5" data-aos="zoom-in" data-aos-delay="200">
+            <div class="profile-card">
+              <div class="profile-header">
+                <div class="profile-image">
+                  <img src="assets/img/profile/isrealite.png" alt="Profile Image" class="img-fluid">
+                </div>
+                <div class="profile-badge">
+                  <i class="bi bi-check-circle-fill"></i>
+                </div>
+              </div>
+
+              <div class="profile-content">
+                <h3>Ajiboye Isreal Oluwaseun</h3>
+                <p class="profession">Software Developer &amp; IT Systems Administrator</p>
+
+                <div class="contact-links">
+                  <a href="mailto:Ajiboye820@gmail.com" class="contact-item">
+                    <i class="bi bi-envelope"></i>
+                    Ajiboye820@gmail.com
+                  </a>
+                  <a href="tel:+2349015352226" class="contact-item">
+                    <i class="bi bi-telephone"></i>
+                    +234 901 535 2226
+                  </a>
+                  <a href="#" class="contact-item">
+                    <i class="bi bi-geo-alt"></i>
+                    Lagos, Nigeria
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-7" data-aos="fade-left" data-aos-delay="300">
+            <div class="about-content">
+              <div class="section-header">
+                <span class="badge-text">Get to Know Me</span>
+                <h2>Building Practical Digital Solutions</h2>
+              </div>
+
+              <div class="description">
+                <p>I develop responsive websites, backend systems, and database-driven applications that help organisations work and communicate better.</p>
+
+                <p>My experience combines web development, UI/UX design, software administration, technical support, and digital content strategy.</p>
+              </div>
+
+              <div class="stats-grid">
+                <div class="stat-item">
+                  <div class="stat-number">5+</div>
+                  <div class="stat-label">Years of Experience</div>
+                </div>
+                <div class="stat-item">
+                  <div class="stat-number">3</div>
+                  <div class="stat-label">Web Projects</div>
+                </div>
+                <div class="stat-item">
+                  <div class="stat-number">6+</div>
+                  <div class="stat-label">Core Skill Areas</div>
+                </div>
+              </div>
+
+              <div class="details-grid">
+                <div class="detail-row">
+                  <div class="detail-item">
+                    <span class="detail-label">Specialization</span>
+                    <span class="detail-value">Full-Stack Web Development</span>
+                  </div>
+                  <div class="detail-item">
+                    <span class="detail-label">Experience Level</span>
+                    <span class="detail-value">Software Developer</span>
+                  </div>
+                </div>
+                <div class="detail-row">
+                  <div class="detail-item">
+                    <span class="detail-label">Education</span>
+                    <span class="detail-value">HND Computer Science</span>
+                  </div>
+                  <div class="detail-item">
+                    <span class="detail-label">Languages</span>
+                    <span class="detail-value">English</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="cta-section">
+                <a href="#" class="btn btn-primary">
+                  <i class="bi bi-download"></i>
+                  Download Resume
+                </a>
+                <a href="#" class="btn btn-outline">
+                  <i class="bi bi-chat-dots"></i>
+                  Let's Talk
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </section><!-- /About Section -->
+
+  
+
+    <!-- Skills Section -->
+    <section id="skills" class="skills section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Skills</h2>
+        <p>Web development, IT systems support, product design, and digital content services.</p>
+      </div><!-- End Section Title -->
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="skills-category" data-aos="fade-up" data-aos-delay="200">
+              <h3>Front-end Development</h3>
+              <div class="skills-animation">
+                <div class="skill-item">
+                  <div class="d-flex justify-content-between align-items-center">
+                    <h4>HTML/CSS</h4>
+                    <span class="skill-percentage">95%</span>
+                  </div>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                  <div class="skill-tooltip">Expert level knowledge of semantic HTML5 and modern CSS3 techniques</div>
+                </div>
+
+                <div class="skill-item">
+                  <div class="d-flex justify-content-between align-items-center">
+                    <h4>JavaScript</h4>
+                    <span class="skill-percentage">85%</span>
+                  </div>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                  <div class="skill-tooltip">Strong proficiency in ES6+, DOM manipulation, and modern frameworks</div>
+                </div>
+
+                <div class="skill-item">
+                  <div class="d-flex justify-content-between align-items-center">
+                    <h4>React</h4>
+                    <span class="skill-percentage">80%</span>
+                  </div>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                  <div class="skill-tooltip">Experience with React hooks, state management, and component architecture</div>
+                </div>
+              </div>
+            </div><!-- End Frontend Skills -->
+          </div>
+
+          <div class="col-lg-6">
+            <div class="skills-category" data-aos="fade-up" data-aos-delay="300">
+              <h3>Back-end Development</h3>
+              <div class="skills-animation">
+                <div class="skill-item">
+                  <div class="d-flex justify-content-between align-items-center">
+                    <h4>Node.js</h4>
+                    <span class="skill-percentage">75%</span>
+                  </div>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                  <div class="skill-tooltip">Server-side JavaScript development with Express and REST APIs</div>
+                </div>
+
+                <div class="skill-item">
+                  <div class="d-flex justify-content-between align-items-center">
+                    <h4>Python</h4>
+                    <span class="skill-percentage">70%</span>
+                  </div>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                  <div class="skill-tooltip">Python development with Django and data analysis tools</div>
+                </div>
+
+                <div class="skill-item">
+                  <div class="d-flex justify-content-between align-items-center">
+                    <h4>SQL</h4>
+                    <span class="skill-percentage">65%</span>
+                  </div>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                  <div class="skill-tooltip">Database design, optimization, and complex queries</div>
+                </div>
+              </div>
+            </div><!-- End Backend Skills -->
+          </div>
+        </div>
+
+      </div>
+
+    </section><!-- /Skills Section -->
+
+    <!-- Resume Section -->
+    <section id="resume" class="resume section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Resume</h2>
+        <p>Computer Science graduate with practical experience across full-stack web development, software administration, UI/UX design, graphics design, and digital content strategy.</p>
+      </div><!-- End Section Title -->
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-4">
+          <!-- Left column with summary and contact -->
+          <div class="col-lg-4">
+            <div class="resume-side" data-aos="fade-right" data-aos-delay="100">
+              <div class="profile-img mb-4">
+                <img src="assets/img/profile/profile-square-2.webp" alt="Profile" class="img-fluid rounded">
+              </div>
+
+              <h3>Professional Summary</h3>
+              <p>Versatile Computer Science graduate skilled in building responsive web applications, managing backend systems, designing user-focused interfaces, and creating digital media solutions that improve usability, engagement, and performance.</p>
+
+              <h3 class="mt-4">Contact Information</h3>
+              <ul class="contact-info list-unstyled">
+                <li><i class="bi bi-geo-alt"></i> Lagos, Nigeria</li>
+                <li><i class="bi bi-envelope"></i> Ajiboye820@gmail.com</li>
+                <li><i class="bi bi-phone"></i> +234 901 535 2226</li>
+              </ul>
+
+              <div class="skills-animation mt-4">
+                <h3>Technical Skills</h3>
+                <div class="skill-item">
+                  <div class="d-flex justify-content-between">
+                    <span>Full-Stack Web Development</span>
+                    <span>92%</span>
+                  </div>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="92" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </div>
+
+                <div class="skill-item">
+                  <div class="d-flex justify-content-between">
+                    <span>UI/UX & Graphics Design</span>
+                    <span>85%</span>
+                  </div>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </div>
+
+                <div class="skill-item">
+                  <div class="d-flex justify-content-between">
+                    <span>Backend & MySQL</span>
+                    <span>88%</span>
+                  </div>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="88" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </div>
+
+                <div class="skill-item">
+                  <div class="d-flex justify-content-between">
+                    <span>SEO & Content Strategy</span>
+                    <span>80%</span>
+                  </div>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Right column with experience and education -->
+          <div class="col-lg-8 ps-4 ps-lg-5">
+            <!-- Experience Section -->
+            <div class="resume-section" data-aos="fade-up">
+              <h3><i class="bi bi-briefcase me-2"></i>Professional Experience</h3>
+
+              <div class="resume-item">
+                <h4>Web Developer</h4>
+                <h5>2022 - 2026</h5>
+                <p class="company"><i class="bi bi-building"></i> Fountain Graphics and Communication | Remote</p>
+                <ul>
+                  <li>Develop and maintain responsive websites using modern web technologies.</li>
+                  <li>Build backend systems and integrate databases for dynamic applications.</li>
+                  <li>Improve website performance, usability, and security.</li>
+                  <li>Collaborate with clients to deliver customized digital solutions.</li>
+                </ul>
+              </div>
+
+              <div class="resume-item">
+                <h4>YouTube Content Creator</h4>
+                <h5>2025 - 2026</h5>
+                <p class="company"><i class="bi bi-building"></i> Truth in Motion Studio | Remote</p>
+                <ul>
+                  <li>Managed YouTube channel operations including content planning and publishing.</li>
+                  <li>Designed thumbnails, titles, and SEO-optimized descriptions.</li>
+                  <li>Grew audience engagement through analytics-driven content strategy.</li>
+                  <li>Maintained consistent posting schedules and brand identity.</li>
+                </ul>
+              </div>
+
+              <div class="resume-item">
+                <h4>Basic Technology Teacher</h4>
+                <h5>2025 - 2026</h5>
+                <p class="company"><i class="bi bi-building"></i> Katsina College, Junior Section (NYSC) | Onsite</p>
+                <ul>
+                  <li>Taught Basic Technology and computer-related subjects.</li>
+                  <li>Prepared lesson plans and practical classroom activities.</li>
+                  <li>Supported students in developing technical and problem-solving skills.</li>
+                </ul>
+              </div>
+
+              <div class="resume-item">
+                <h4>Software Administrator</h4>
+                <h5>2020 - 2021</h5>
+                <p class="company"><i class="bi bi-building"></i> Echoes of Grace Medical Diagnosis &amp; Research Lab | Onsite</p>
+                <ul>
+                  <li>Managed Laboratory Information Management Systems (LIMS).</li>
+                  <li>Ensured data security, system updates, and backups.</li>
+                  <li>Provided technical support and staff training.</li>
+                </ul>
+              </div>
+
+              <div class="resume-item">
+                <h4>Computer Operator</h4>
+                <h5>2019 - 2020</h5>
+                <p class="company"><i class="bi bi-building"></i> Mimshach Innovation and Technologies | Onsite</p>
+                <ul>
+                  <li>Provided IT support including printing, browsing, and document processing.</li>
+                  <li>Maintained system security and software updates.</li>
+                  <li>Assisted customers with digital services.</li>
+                </ul>
+              </div>
+            </div>
+
+            <!-- Education Section -->
+            <div class="resume-section" data-aos="fade-up" data-aos-delay="100">
+              <h3><i class="bi bi-mortarboard me-2"></i>Education</h3>
+
+              <div class="resume-item">
+                <h4>Higher National Diploma in Computer Science</h4>
+                <h5>2022 - 2025</h5>
+                <p class="company"><i class="bi bi-building"></i> The Federal Polytechnic, Ado-Ekiti, Ekiti State</p>
+              </div>
+
+              <div class="resume-item">
+                <h4>Ordinary National Diploma in Computer Science</h4>
+                <h5>2016 - 2018</h5>
+                <p class="company"><i class="bi bi-building"></i> Crown Polytechnic, Odo, Ado-Ekiti, Ekiti State</p>
+              </div>
+
+              <div class="resume-item">
+                <h4>West African Senior School Certificate Examination</h4>
+                <h5>2009 - 2015</h5>
+                <p class="company"><i class="bi bi-building"></i> Leadway College, Ore, Ondo State</p>
+              </div>
+            </div>
+
+            <!-- Certifications Section -->
+            <div class="resume-section" data-aos="fade-up" data-aos-delay="200">
+              <h3><i class="bi bi-award me-2"></i>Certifications</h3>
+
+              <div class="resume-item">
+                <h4>National Youth Service Corps (NYSC) Discharge Certificate</h4>
+                <h5>2026</h5>
+              </div>
+
+              <div class="resume-item">
+                <h4>Soft Skills Training, Jobberman Nigeria</h4>
+                <h5>2026</h5>
+              </div>
+
+              <div class="resume-item">
+                <h4>Computer Professionals Registration Council of Nigeria (CPN), Graduate Member</h4>
+                <h5>2024</h5>
+              </div>
+
+              <div class="resume-item">
+                <h4>Critical Thinking for Better Judgement</h4>
+                <h5>2024</h5>
+              </div>
+            </div>
+
+            <!-- Projects Section -->
+            <div class="resume-section" data-aos="fade-up" data-aos-delay="300">
+              <h3><i class="bi bi-folder-check me-2"></i>Project</h3>
+
+              <div class="resume-item">
+                <h4>Automated Student Identity Card System</h4>
+                <p>Designed and developed a student ID card generation system with database integration.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </section><!-- /Resume Section -->
+
+    <!-- Portfolio Section -->
+    <section id="portfolio" class="portfolio section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Portfolio</h2>
+        <p>Selected work in website development, product design, and digital content creation.</p>
+      </div><!-- End Section Title -->
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
+
+          <div class="row">
+            <div class="col-lg-3 filter-sidebar">
+              <div class="filters-wrapper" data-aos="fade-right" data-aos-delay="150">
+                <ul class="portfolio-filters isotope-filters">
+                  <li data-filter=".filter-development">All Projects</li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="col-lg-9">
+              <div class="row gy-4 portfolio-container isotope-container" data-aos="fade-up" data-aos-delay="200">
+
+                <div class="col-lg-6 col-md-6 portfolio-item isotope-item filter-development">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/portfolio/web/umachi.png" class="img-fluid" alt="Umachi Oil and Gas website preview" loading="lazy" data-device-preview data-live-url="https://www.umachioilgas.com/" data-desktop-url="https://www.umachioilgas.com/" data-mobile-url="https://www.umachioilgas.com/" data-description="A responsive website for Umachi Oil and Gas." data-technologies="Website Development">
+                    <div class="portfolio-info">
+                      <div class="content">
+                        <span class="category">Umachi Oil and Gas</span>
+                       
+                        <div class="portfolio-links">
+                          <a href="https://www.umachioilgas.com/" target="_blank" rel="noopener noreferrer" title="View Live Project"><i class="bi bi-box-arrow-up-right"></i></a>
+                          <a href="portfolio-details.php?project=umachi" title="More Details"><i class="bi bi-arrow-right"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div><!-- End Portfolio Item -->
+
+                <div class="col-lg-6 col-md-6 portfolio-item isotope-item filter-development">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/portfolio/web/hansel.png" class="img-fluid" alt="Hansel Tech website preview" loading="lazy" data-device-preview data-live-url="https://www.hanseltechng.com/" data-desktop-url="https://www.hanseltechng.com/" data-mobile-url="https://www.hanseltechng.com/" data-description="A modern technology company website for Hansel Tech NG." data-technologies="Website Development">
+                    <div class="portfolio-info">
+                      <div class="content">
+                        <span class="category">Hansel Tech NG</span>
+                        
+                        <div class="portfolio-links">
+                          <a href="https://www.hanseltechng.com/" target="_blank" rel="noopener noreferrer" title="View Live Project"><i class="bi bi-box-arrow-up-right"></i></a>
+                          <a href="portfolio-details.php?project=hansel" title="More Details"><i class="bi bi-arrow-right"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div><!-- End Portfolio Item -->
+
+                <div class="col-lg-6 col-md-6 portfolio-item isotope-item filter-development">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/portfolio/web/fountaingraphics.png" class="img-fluid" alt="Fountain Graphics website preview" loading="lazy" data-device-preview data-live-url="https://www.fountaingraphics.com/" data-desktop-url="https://www.fountaingraphics.com/" data-mobile-url="https://www.fountaingraphics.com/" data-description="A modern graphics company website for Fountain Graphics." data-technologies="Website Development">
+                    <div class="portfolio-info">
+                      <div class="content">
+                        <span class="category">Fountain Graphics</span>
+                        
+                        <div class="portfolio-links">
+                          <a href="https://www.fountaingraphics.com/" target="_blank" rel="noopener noreferrer" title="View Live Project"><i class="bi bi-box-arrow-up-right"></i></a>
+                          <a href="portfolio-details.php?project=fountaingraphics" title="More Details"><i class="bi bi-arrow-right"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div><!-- End Portfolio Item -->
+
+                <div class="col-lg-6 col-md-6 portfolio-item isotope-item filter-development">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/portfolio/web/amobichome.png" class="img-fluid" alt="Amobi Homes website preview" loading="lazy" data-device-preview data-live-url="https://www.amobichomes.com/" data-desktop-url="https://www.amobichomes.com/" data-mobile-url="https://www.amobichomes.com/" data-description="A modern real estate company website for Amobi Homes." data-technologies="Website Development">
+                    <div class="portfolio-info">
+                      <div class="content">
+                        <span class="category">Amobis Homes</span>
+                        
+                        <div class="portfolio-links">
+                          <a href="https://www.amobichomes.com/" target="_blank" rel="noopener noreferrer" title="View Live Project"><i class="bi bi-box-arrow-up-right"></i></a>
+                          <a href="portfolio-details.php?project=amobichomes" title="More Details"><i class="bi bi-arrow-right"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div><!-- End Portfolio Item -->
+
+                <div class="col-lg-6 col-md-6 portfolio-item isotope-item filter-development">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/portfolio/web/shinning.png" class="img-fluid" alt="Shining Holdings website preview" loading="lazy" data-device-preview data-live-url="https://www.shiningholdings.com/" data-desktop-url="https://www.shiningholdings.com/" data-mobile-url="https://www.shiningholdings.com/" data-description="A modern financial services website for Shining Holdings." data-technologies="Website Development">
+                    <div class="portfolio-info">
+                      <div class="content">
+                        <span class="category">Shining Holdings</span>
+                        
+                        <div class="portfolio-links">
+                          <a href="https://www.shiningholdings.com/" target="_blank" rel="noopener noreferrer" title="View Live Project"><i class="bi bi-box-arrow-up-right"></i></a>
+                          <a href="portfolio-details.php?project=shiningholdings" title="More Details"><i class="bi bi-arrow-right"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div><!-- End Portfolio Item -->
+
+                
+
+                <div class="col-lg-6 col-md-6 portfolio-item isotope-item filter-product-design">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/portfolio/web/onyemachi.png" class="img-fluid" alt="Onyemachi Foundation website preview" loading="lazy" data-device-preview data-live-url="https://http://onyemachifoundation.com.ng/" data-desktop-url="https://http://onyemachifoundation.com.ng/" data-mobile-url="https://http://onyemachifoundation.com.ng/" data-description="A modern foundation website for Onyemachi Foundation." data-technologies="Product Design">
+                    <div class="portfolio-info">
+                      <div class="content">
+                        <span class="category">Onyemachi Foundation</span>
+                       
+                        <div class="portfolio-links">
+                          <a href="https://onyemachifoundation.com/" target="_blank" rel="noopener noreferrer" title="View Live Project"><i class="bi bi-box-arrow-up-right"></i></a>
+                          <a href="portfolio-details.php?project=onyemachifoundation" title="More Details"><i class="bi bi-arrow-right"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div><!-- End Portfolio Item -->
+
+                <div class="col-lg-6 col-md-6 portfolio-item isotope-item filter-development">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/portfolio/web/digitalduke.png" class="img-fluid" alt="Shining Holdings website preview" loading="lazy" data-device-preview data-live-url="https://www.shiningholdings.com/" data-desktop-url="https://www.shiningholdings.com/" data-mobile-url="https://www.shiningholdings.com/" data-description="A modern financial services website for Shining Holdings." data-technologies="Website Development">
+                    <div class="portfolio-info">
+                      <div class="content">
+                        <span class="category">Digital Duke</span>
+                        
+                        <div class="portfolio-links">
+                          <a href="https://www.digitalduke.online/" target="_blank" rel="noopener noreferrer" title="View Live Project"><i class="bi bi-box-arrow-up-right"></i></a>
+                          <a href="portfolio-details.php?project=digitalduke" title="More Details"><i class="bi bi-arrow-right"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div><!-- End Portfolio Item -->
+
+                <div class="col-lg-6 col-md-6 portfolio-item isotope-item filter-development">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/portfolio/web/zionexsolution.png" class="img-fluid" alt="Zionex Solutions website preview" loading="lazy" data-device-preview data-live-url="https://www.zionaexsolutions.obasete.com/" data-desktop-url="https://www.zionaexsolutions.obasete.com/" data-mobile-url="https://www.zionaexsolutions.obasete.com/" data-description="A modern financial services website for Zionex Solutions." data-technologies="Website Development">
+                    <div class="portfolio-info">
+                      <div class="content">
+                        <span class="category">Zionex Solutions</span>
+                        
+                        <div class="portfolio-links">
+                          <a href="https://www.zionaexsolutions.obasete.com/" target="_blank" rel="noopener noreferrer" title="View Live Project"><i class="bi bi-box-arrow-up-right"></i></a>
+                          <a href="portfolio-details.php?project=zionexsolution" title="More Details"><i class="bi bi-arrow-right"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div><!-- End Portfolio Item -->
+
+              </div><!-- End Portfolio Container -->
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </section><!-- /Portfolio Section -->
+
+    <!-- Services Section -->
+    <section id="services" class="services section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Services</h2>
+        <p>Web development, IT systems support, product design, and digital content services.</p>
+      </div><!-- End Section Title -->
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="service-header">
+          <div class="row align-items-center">
+            <div class="col-lg-8 col-md-12">
+              <div class="service-intro">
+                <h2 class="service-heading">
+                  <div>Practical digital</div>
+                  <div><span>solutions for growing brands</span></div>
+                </h2>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row justify-content-center">
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="service-card position-relative z-1">
+              <div class="service-icon">
+                <i class="bi bi-palette"></i>
+              </div>
+              <a href="service-details.html" class="card-action d-flex align-items-center justify-content-center rounded-circle">
+                <i class="bi bi-arrow-up-right"></i>
+              </a>
+              <h3>
+                <a href="service-details.html">
+                  Website <span>development</span>
+                </a>
+              </h3>
+              <p>
+                Responsive websites, backend systems, and database integrations built around your goals.
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="service-card position-relative z-1">
+              <div class="service-icon">
+                <i class="bi bi-gem"></i>
+              </div>
+              <a href="service-details.html" class="card-action d-flex align-items-center justify-content-center rounded-circle">
+                <i class="bi bi-arrow-up-right"></i>
+              </a>
+              <h3>
+                <a href="service-details.html">
+                  Product <span>design</span>
+                </a>
+              </h3>
+              <p>
+                Wireframes, prototypes, and user-focused interfaces that make products easier to understand and use.
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="service-card position-relative z-1">
+              <div class="service-icon">
+                <i class="bi bi-megaphone"></i>
+              </div>
+              <a href="service-details.html" class="card-action d-flex align-items-center justify-content-center rounded-circle">
+                <i class="bi bi-arrow-up-right"></i>
+              </a>
+              <h3>
+                <a href="service-details.html">
+                  SEO &amp; content <span>strategy</span>
+                </a>
+              </h3>
+              <p>
+                Search-friendly content, thumbnails, titles, and publishing support for stronger digital reach.
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="service-card position-relative z-1">
+              <div class="service-icon">
+                <i class="bi bi-code-slash"></i>
+              </div>
+              <a href="service-details.html" class="card-action d-flex align-items-center justify-content-center rounded-circle">
+                <i class="bi bi-arrow-up-right"></i>
+              </a>
+              <h3>
+                <a href="service-details.html">
+                  IT systems <span>support</span>
+                </a>
+              </h3>
+              <p>
+                Software administration, troubleshooting, backups, updates, and user support for reliable operations.
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="service-card position-relative z-1">
+              <div class="service-icon">
+                <i class="bi bi-graph-up"></i>
+              </div>
+              <a href="service-details.html" class="card-action d-flex align-items-center justify-content-center rounded-circle">
+                <i class="bi bi-arrow-up-right"></i>
+              </a>
+              <h3>
+                <a href="service-details.html">
+                  Website <span>maintenance</span>
+                </a>
+              </h3>
+              <p>
+                Ongoing improvements, performance checks, security updates, and content changes after launch.
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="service-card position-relative z-1">
+              <div class="service-icon">
+                <i class="bi bi-camera-video"></i>
+              </div>
+              <a href="service-details.html" class="card-action d-flex align-items-center justify-content-center rounded-circle">
+                <i class="bi bi-arrow-up-right"></i>
+              </a>
+              <h3>
+                <a href="service-details.html">
+                  YouTube <span>content</span>
+                </a>
+              </h3>
+              <p>
+                Channel planning, thumbnails, titles, SEO descriptions, publishing, and audience-focused content strategy.
+              </p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </section><!-- /Services Section -->
+
+   
+    <!-- Contact Section -->
+    <section id="contact" class="contact section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Contact</h2>
+        <p>Web development, IT systems support, product design, and digital content services.</p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="row g-4 g-lg-5">
+          <div class="col-lg-5">
+            <div class="info-box">
+              <h3>Contact Info</h3>
+              <p>Based in Lagos, Nigeria and available for web, design, and IT support projects.</p>
+
+              <div class="info-item">
+                <div class="icon-box">
+                  <i class="bi bi-geo-alt"></i>
+                </div>
+                <div class="content">
+                  <h4>Our Location</h4>
+                  <p>Lagos</p>
+                  <p>Lagos State, Nigeria</p>
+                </div>
+              </div>
+
+              <div class="info-item">
+                <div class="icon-box">
+                  <i class="bi bi-telephone"></i>
+                </div>
+                <div class="content">
+                  <h4>Phone Number</h4>
+                  <p>+234 901 535 2226</p>
+                  <p>+234 913 929 8009</p>
+                </div>
+              </div>
+
+              <div class="info-item">
+                <div class="icon-box">
+                  <i class="bi bi-envelope"></i>
+                </div>
+                <div class="content">
+                  <h4>Email Address</h4>
+                  <p>Ajiboye820@gmail.com</p>
+                  <p>Ajiboye820@gmail.com</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-7">
+            <div class="contact-form">
+              <h3>Get In Touch</h3>
+              <p>Based in Lagos, Nigeria and available for web, design, and IT support projects.</p>
+
+              <form action="forms/contact.php" method="post" class="php-email-form">
+                <div class="row gy-4">
+
+                  <div class="col-md-6">
+                    <input type="text" name="name" class="form-control" placeholder="Your Name" required="">
+                  </div>
+
+                  <div class="col-md-6 ">
+                    <input type="email" class="form-control" name="email" placeholder="Your Email" required="">
+                  </div>
+
+                  <div class="col-12">
+                    <input type="text" class="form-control" name="subject" placeholder="Subject" required="">
+                  </div>
+
+                  <div class="col-12">
+                    <textarea class="form-control" name="message" rows="6" placeholder="Message" required=""></textarea>
+                  </div>
+
+                  <div class="col-12 text-center">
+                    <div class="loading">Loading</div>
+                    <div class="error-message"></div>
+                    <div class="sent-message">Your message has been sent. Thank you!</div>
+
+                    <button type="submit" class="btn">Send Message</button>
+                  </div>
+
+                </div>
+              </form>
+
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </section><!-- /Contact Section -->
+
+  </main>
+
+  <footer id="footer" class="footer position-relative">
+
+    <div class="container">
+      <div class="copyright text-center ">
+        <p>Â© <span>Copyright</span> <strong class="px-1 sitename">Ajiboye Isreal Oluwaseun</strong> <span>All Rights Reserved</span></p>
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you've purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> | <a href="https://bootstrapmade.com/tools/">DevTools</a>
+      </div>
+    </div>
+
+  </footer>
+
+  <!-- Scroll Top -->
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Preloader -->
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/typed.js/typed.umd.js"></script>
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+  <!-- Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
