@@ -58,6 +58,7 @@
       <div class="social-links text-center">
         <a href="https://www.facebook.com/hisrealite" class="facebook" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
         <a href="https://www.instagram.com/hisrealitee/" class="instagram" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
+        <a href="https://github.com/hisreal" class="github" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><i class="bi bi-github"></i></a>
         <a href="https://www.linkedin.com/in/ajiboye-isreal-oluwaseun-0b1a16161/" class="linkedin" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
       </div>
 
