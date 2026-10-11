@@ -200,7 +200,7 @@
               </div>
 
               <div class="cta-section">
-                <a href="#" class="btn btn-primary">
+                <a href="assets/AJIBOYE%20ISREAL%20OLUWASEUN%20CV%20PRO.docx.pdf" class="btn btn-primary" download="AJIBOYE-ISREAL-OLUWASEUN-CV.pdf">
                   <i class="bi bi-download"></i>
                   Download Resume
                 </a>
